@@ -1,0 +1,98 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&display=swap');
+
+
+
+body{
+    padding-top: 0px;
+    text-align: center;
+}
+
+
+
+
+
+#welcome{
+  
+    background: linear-gradient(white, pink );
+    font-family: monospace;
+    position: table;
+    height: 100%;
+    width: 100%;
+
+}
+
+
+
+
+img{
+    margin-top: 25px;
+    border-radius: 50%;
+    border:4px black auto ;
+    height: 350px;
+    width: 350px;
+}
+
+
+
+p{
+    text-align:justify;
+    word-spacing: 20px;
+    font-family: cursive;
+}
+ 
+ 
+
+div{
+    margin:10px auto;
+    background-color: black;
+    width: 25%;
+    height: 2%;
+}
+
+
+
+.home{
+    background-color: white;
+    z-index:10;
+    font-family:'Times New Roman', Times, serif;  
+    color: blue;
+    list-style:none;
+    position:fixed;
+    margin-top:0px;
+    top:0px;
+    width:100%;
+    margin-bottom: 100px;
+
+}
+
+.link{
+
+    display: inline;
+    cursor: pointer;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.link:hover{
+    font-size: 25px;
+}
+
+
+section{
+
+    border: 2px;
+    border-color: black;
+    border-style: dashed;
+}
+
+
+button{
+
+    border-radius: 25px;
+    margin-left: 1000px;
+}
